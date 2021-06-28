@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Text
+comment1.params=text\ font\ x\ y\ color
+comment1.target=Text(java.lang.String,\ java.awt.Font,\ double,\ double,\ java.awt.Color)
+comment2.params=text\ font\ x\ y
+comment2.target=Text(int,\ java.awt.Font,\ double,\ double)
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

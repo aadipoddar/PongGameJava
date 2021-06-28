@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlayerController
+comment1.params=rect\ keyListener
+comment1.target=PlayerController(Rect,\ KL)
+comment2.params=rect
+comment2.target=PlayerController(Rect)
+comment3.params=dt
+comment3.target=void\ update(double)
+comment4.params=dt
+comment4.target=void\ moveUp(double)
+comment5.params=dt
+comment5.target=void\ moveDown(double)
+numComments=6

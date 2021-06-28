@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ML
+comment1.params=e
+comment1.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment2.params=e
+comment2.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment3.params=e
+comment3.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment4.params=
+comment4.target=double\ getMouseX()
+comment5.params=
+comment5.target=double\ getMouseY()
+comment6.params=
+comment6.target=boolean\ isMousePressed()
+numComments=7

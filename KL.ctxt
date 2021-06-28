@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KL
+comment1.params=keyEvent
+comment1.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment2.params=keyEvent
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=keyEvent
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.params=keyCode
+comment4.target=boolean\ isKeyPressed(int)
+numComments=5
